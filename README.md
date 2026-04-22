@@ -50,7 +50,7 @@ UAV imagery was used for training data refinement and validation only and is not
 
 ## Reproducibility
 
-This repository is provided as a curated and transparent implementation of the workflow rather than a turnkey software package.
+This repository is provided as a transparent implementation of the workflow rather than a turnkey software package.
 
 * File paths within the notebook are configured for the original Windows project environment and require modification for use in a different system.
 * ESA SNAP (with `esa-snappy`) must be installed and configured separately for Sentinel-1 preprocessing.
