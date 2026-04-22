@@ -61,4 +61,4 @@ This repository is provided as a transparent implementation of the workflow rath
 ## Author
 
 Charmaine Newmarch
-MSc Remote Sensing and GIS
+MSc Remote Sensing and GIS University of Ulster (April 2026)
