@@ -1,0 +1,7 @@
+Class_ID,Class_Name,UKHab_Habitat,Notes
+1,Broadleafed_Woodland,Woodland and forest (Broadleaved woodland),High NDVI; LCM-aligned
+3,Arable_land,Cropland (Arable and horticulture),Farmland surrounding Desborough park
+4,Improved_grassland,Grassland (Improved grassland),Agricultural grassland / pasture
+5,Semi_improved_grassland,Grassland (Neutral grassland),Moderate NDVI grassland
+14,Standing_water,Standing open water and canals,Open water
+20,Urban,Urban (Built-up areas),NDVI not applicable
