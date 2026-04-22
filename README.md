@@ -1,6 +1,6 @@
 # Reproducible UKHab Habitat Mapping Workflow
 
-This repository provides a curated, reproducible workflow for UKHab-aligned habitat classification using a simplified multi-sensor feature set (Sentinel-1, Sentinel-2, and LiDAR), supported by targeted UAV-based label refinement.
+This repository provides a reproducible workflow for UKHab-aligned habitat classification using a simplified multi-sensor feature set (Sentinel-1, Sentinel-2, and LiDAR), supported by targeted UAV-based label refinement.
 
 ---
 
